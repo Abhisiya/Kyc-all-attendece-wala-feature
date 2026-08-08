@@ -14,7 +14,13 @@
 {
         "device_id": "beba58c272149d9f",
         "key": "key203201",
-        "expirydate": "09-08-2026",
+        "expirydate": "07-08-2026",
+        "Allowoffline": false
+    },
+{
+        "device_id": "52edf47eeaba8905",
+        "key": "key203202",
+        "expirydate": "25-08-2026",
         "Allowoffline": false
     }
 ]
